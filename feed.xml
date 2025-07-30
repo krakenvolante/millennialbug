@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>millennialbug</title>
+    <link href="https://krakenvolante.github.io/millennialbug/feed.xml" rel="self" />
+    <link href="https://krakenvolante.github.io/millennialbug" />
+    <updated>2025-07-30T21:52:09+02:00</updated>
+    <author>
+        <name>lain</name>
+    </author>
+    <id>https://krakenvolante.github.io/millennialbug</id>
+
+    <entry>
+        <title>Che dire...</title>
+        <author>
+            <name>lain</name>
+        </author>
+        <link href="https://krakenvolante.github.io/millennialbug/post.html"/>
+        <id>https://krakenvolante.github.io/millennialbug/post.html</id>
+
+        <updated>2025-07-29T18:32:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Blog di un millennial esaurito. Lavori in corso.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Blog di un millennial esaurito.<br>Lavori in corso.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
