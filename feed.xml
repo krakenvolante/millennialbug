@@ -3,12 +3,32 @@
     <title>millennialbug</title>
     <link href="https://millennialbug.xyz/feed.xml" rel="self" />
     <link href="https://millennialbug.xyz" />
-    <updated>2025-07-30T22:23:24+02:00</updated>
+    <updated>2025-07-30T22:33:27+02:00</updated>
     <author>
         <name>lain</name>
     </author>
     <id>https://millennialbug.xyz</id>
 
+    <entry>
+        <title>Post 2</title>
+        <author>
+            <name>lain</name>
+        </author>
+        <link href="https://millennialbug.xyz/post-2/"/>
+        <id>https://millennialbug.xyz/post-2/</id>
+
+        <updated>2025-07-30T22:33:27+02:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Che dire...</title>
         <author>
