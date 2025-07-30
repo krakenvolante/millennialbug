@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://millennialbug.xyz/post.html",
-            "url": "https://millennialbug.xyz/post.html",
+            "id": "https://millennialbug.xyz/post/",
+            "url": "https://millennialbug.xyz/post/",
             "title": "Che dire...",
             "summary": "Blog di un millennial esaurito.",
             "content_html": "<p>Blog di un millennial esaurito.</p>",
