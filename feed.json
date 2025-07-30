@@ -15,13 +15,14 @@
             "title": "Che dire...",
             "summary": "Blog di un millennial esaurito.",
             "content_html": "<p>Blog di un millennial esaurito.</p>",
+            "image": "https://millennialbug.xyz/media/posts/5/alan-emery-wTMyELLeV38-unsplash.jpg",
             "author": {
                 "name": "lain"
             },
             "tags": [
             ],
             "date_published": "2025-07-30T22:40:37+02:00",
-            "date_modified": "2025-07-30T22:40:37+02:00"
+            "date_modified": "2025-07-30T22:45:31+02:00"
         }
     ]
 }

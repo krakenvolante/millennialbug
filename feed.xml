@@ -3,7 +3,7 @@
     <title>millennialbug</title>
     <link href="https://millennialbug.xyz/feed.xml" rel="self" />
     <link href="https://millennialbug.xyz" />
-    <updated>2025-07-30T22:40:37+02:00</updated>
+    <updated>2025-07-30T22:45:31+02:00</updated>
     <author>
         <name>lain</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://millennialbug.xyz/che-dire/"/>
         <id>https://millennialbug.xyz/che-dire/</id>
+        <media:content url="https://millennialbug.xyz/media/posts/5/alan-emery-wTMyELLeV38-unsplash.jpg" medium="image" />
 
         <updated>2025-07-30T22:40:37+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://millennialbug.xyz/media/posts/5/alan-emery-wTMyELLeV38-unsplash.jpg" alt="" />
                     Blog di un millennial esaurito.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://millennialbug.xyz/media/posts/5/alan-emery-wTMyELLeV38-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Blog di un millennial esaurito.</p>
             ]]>
         </content>
