@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Millennial Bug</title>
+    <title>millennialbug</title>
     <link href="https://millennialbug.xyz/feed.xml" rel="self" />
     <link href="https://millennialbug.xyz" />
-    <updated>2025-07-30T22:45:31+02:00</updated>
+    <updated>2025-11-06T17:31:16+01:00</updated>
     <author>
         <name>lain</name>
     </author>
@@ -14,20 +14,17 @@
         <author>
             <name>lain</name>
         </author>
-        <link href="https://millennialbug.xyz/che-dire/"/>
-        <id>https://millennialbug.xyz/che-dire/</id>
-        <media:content url="https://millennialbug.xyz/media/posts/5/alan-emery-wTMyELLeV38-unsplash.jpg" medium="image" />
+        <link href="https://millennialbug.xyz/che-dire.html"/>
+        <id>https://millennialbug.xyz/che-dire.html</id>
 
-        <updated>2025-07-30T22:40:37+02:00</updated>
+        <updated>2025-11-06T17:31:16+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://millennialbug.xyz/media/posts/5/alan-emery-wTMyELLeV38-unsplash.jpg" alt="" />
                     Blog di un millennial esaurito.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://millennialbug.xyz/media/posts/5/alan-emery-wTMyELLeV38-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Blog di un millennial esaurito.</p>
             ]]>
         </content>

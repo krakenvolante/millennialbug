@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Millennial Bug",
+    "title": "millennialbug",
     "description": "",
     "home_page_url": "https://millennialbug.xyz",
     "feed_url": "https://millennialbug.xyz/feed.json",
@@ -10,19 +10,18 @@
     },
     "items": [
         {
-            "id": "https://millennialbug.xyz/che-dire/",
-            "url": "https://millennialbug.xyz/che-dire/",
+            "id": "https://millennialbug.xyz/che-dire.html",
+            "url": "https://millennialbug.xyz/che-dire.html",
             "title": "Che dire...",
             "summary": "Blog di un millennial esaurito.",
             "content_html": "<p>Blog di un millennial esaurito.</p>",
-            "image": "https://millennialbug.xyz/media/posts/5/alan-emery-wTMyELLeV38-unsplash.jpg",
             "author": {
                 "name": "lain"
             },
             "tags": [
             ],
-            "date_published": "2025-07-30T22:40:37+02:00",
-            "date_modified": "2025-07-30T22:45:31+02:00"
+            "date_published": "2025-11-06T17:31:16+01:00",
+            "date_modified": "2025-11-06T17:31:16+01:00"
         }
     ]
 }
