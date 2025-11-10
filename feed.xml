@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>millennialbug</title>
+    <title>Millennial Bug</title>
     <link href="https://millennialbug.xyz/feed.xml" rel="self" />
     <link href="https://millennialbug.xyz" />
-    <updated>2025-11-06T17:31:16+01:00</updated>
+    <updated>2025-11-10T17:45:20+01:00</updated>
     <author>
         <name>lain</name>
     </author>
@@ -20,12 +20,12 @@
         <updated>2025-11-06T17:31:16+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Blog di un millennial esaurito.
+                    Blog di un millennial esaurito. Questo spazio è riservato ai miei liberi pensieri e sfoghi.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Blog di un millennial esaurito.</p>
+                <p>Blog di un millennial esaurito. Questo spazio è riservato ai miei liberi pensieri e sfoghi.</p>
             ]]>
         </content>
     </entry>

@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "millennialbug",
+    "title": "Millennial Bug",
     "description": "",
     "home_page_url": "https://millennialbug.xyz",
     "feed_url": "https://millennialbug.xyz/feed.json",
@@ -13,15 +13,15 @@
             "id": "https://millennialbug.xyz/che-dire.html",
             "url": "https://millennialbug.xyz/che-dire.html",
             "title": "Che dire...",
-            "summary": "Blog di un millennial esaurito.",
-            "content_html": "<p>Blog di un millennial esaurito.</p>",
+            "summary": "Blog di un millennial esaurito. Questo spazio è riservato ai miei liberi pensieri e sfoghi.",
+            "content_html": "<p>Blog di un millennial esaurito. Questo spazio è riservato ai miei liberi pensieri e sfoghi.</p>",
             "author": {
                 "name": "lain"
             },
             "tags": [
             ],
             "date_published": "2025-11-06T17:31:16+01:00",
-            "date_modified": "2025-11-06T17:31:16+01:00"
+            "date_modified": "2025-11-10T17:45:20+01:00"
         }
     ]
 }
